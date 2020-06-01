@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="33.45" viewBox="0 0 11 33.45">
+  <g id="scroll_icon" data-name="scroll icon" transform="translate(-1321 -218)">
+    <rect id="Rectangle_43" data-name="Rectangle 43" width="11" height="33.45" rx="5.5" transform="translate(1321 218)" fill="#213a7a"/>
+    <rect id="Rectangle_44" data-name="Rectangle 44" width="4.8" height="0.5" rx="0.25" transform="translate(1324 243.65)" fill="#fff"/>
+    <rect id="Rectangle_47" data-name="Rectangle 47" width="4.8" height="0.5" rx="0.25" transform="translate(1328.808 225.756) rotate(180)" fill="#fff"/>
+    <rect id="Rectangle_45" data-name="Rectangle 45" width="4.8" height="0.5" rx="0.25" transform="translate(1324 242.65)" fill="#fff"/>
+    <rect id="Rectangle_46" data-name="Rectangle 46" width="4.8" height="0.5" rx="0.25" transform="translate(1328.808 226.756) rotate(180)" fill="#fff"/>
+    <path id="arrow_icon" data-name="arrow icon" d="M17.376,288h4.369a.441.441,0,0,1,.312.753l-2.184,2.184a.439.439,0,0,1-.622,0l-2.186-2.184A.441.441,0,0,1,17.376,288Z" transform="translate(1306.844 -43.36)" fill="#fff"/>
+    <path id="arrow_icon-2" data-name="arrow icon" d="M17.376,288h4.369a.441.441,0,0,1,.312.753l-2.184,2.184a.439.439,0,0,1-.622,0l-2.186-2.184A.441.441,0,0,1,17.376,288Z" transform="translate(1345.965 512.766) rotate(180)" fill="#fff"/>
+  </g>
+</svg>

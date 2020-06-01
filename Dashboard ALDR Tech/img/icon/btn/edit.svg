@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.031" height="22.031" viewBox="0 0 22.031 22.031">
+  <g id="edit" transform="translate(0 0)">
+    <g id="Rectangle_33" data-name="Rectangle 33" transform="translate(0 0)" fill="#213a7a" stroke="#213a7a" stroke-width="1">
+      <rect width="22.031" height="22.031" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="21.031" height="21.031" rx="3.5" fill="none"/>
+    </g>
+    <g id="edit-2" data-name="edit" transform="translate(4.631 3.625)">
+      <path id="Path_806" data-name="Path 806" d="M156.367,40.1l7.77-7.771,2.506,2.506-7.77,7.771Zm0,0" transform="translate(-155.099 -30.622)" fill="#fff"/>
+      <path id="Path_807" data-name="Path 807" d="M132.543,199.988l2.769-.767-2-2Zm0,0" transform="translate(-132.543 -186.738)" fill="#fff"/>
+      <path id="Path_808" data-name="Path 808" d="M318.973.658a1.332,1.332,0,0,0-1.882,0l-.564.564,2.506,2.506.564-.564a1.332,1.332,0,0,0,0-1.882Zm0,0" transform="translate(-306.736 -0.269)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

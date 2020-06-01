@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.988" height="27.907" viewBox="0 0 20.988 27.907">
+  <g id="notifications" transform="translate(0.952)">
+    <g id="bell_icon" data-name="bell icon" transform="translate(0 6)">
+      <path id="Path_652" data-name="Path 652" d="M13558.021,1292.9a2.072,2.072,0,0,0,2.1-1.994h-4.205A2.072,2.072,0,0,0,13558.021,1292.9Z" transform="translate(-13549.375 -1271.492)" fill="none" stroke="#0f204b" stroke-width="1"/>
+      <path id="Path_653" data-name="Path 653" d="M13560.019,1269.266l-1.48-1.518a1,1,0,0,1-.281-.7v-5.212c0-.092.014-.182.014-.274s-.01-.183-.014-.274v-.2h-.01a6.582,6.582,0,0,0-4.893-5.9,2.513,2.513,0,0,0,.043-.458,1.747,1.747,0,1,0-3.436,0,2.351,2.351,0,0,0,.045.458,6.586,6.586,0,0,0-4.895,5.9h-.01v.2c0,.092-.012.182-.012.274s.01.182.012.274v5.207a1,1,0,0,1-.289.7l-1.5,1.518a1,1,0,0,0-.273.688v.792h.029l-.01.014h17.246l-.01-.014h.01v-.785A.991.991,0,0,0,13560.019,1269.266Z" transform="translate(-13543.038 -1252.678)" fill="none" stroke="#0f204b" stroke-width="1"/>
+    </g>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="3" cy="3" r="3" transform="translate(14.036)" fill="#ff511c"/>
+  </g>
+</svg>

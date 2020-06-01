@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37" height="36" viewBox="0 0 37 36">
+  <defs>
+    <filter id="Rectangle_831" x="0" y="0" width="37" height="36" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="calendar_button" data-name="calendar button" transform="translate(-649 -859.5)">
+    <g transform="matrix(1, 0, 0, 1, 649, 859.5)" filter="url(#Rectangle_831)">
+      <rect id="Rectangle_831-2" data-name="Rectangle 831" width="31" height="30" rx="5" transform="translate(2 2)" fill="#213a7a"/>
+    </g>
+    <g id="calendar" transform="translate(656.335 865.713)">
+      <g id="Group_657" data-name="Group 657">
+        <g id="Group_656" data-name="Group 656">
+          <path id="Path_851" data-name="Path 851" d="M18.056,1.6H17.1V0H15.5V1.6H4.953V0h-1.6V1.6H2.4A2.4,2.4,0,0,0,0,3.995V18.056a2.4,2.4,0,0,0,2.4,2.4H18.056a2.4,2.4,0,0,0,2.4-2.4V3.995a2.4,2.4,0,0,0-2.4-2.4Zm.8,16.458a.8.8,0,0,1-.8.8H2.4a.8.8,0,0,1-.8-.8V7.51H18.855Zm0-12.144H1.6V3.995a.8.8,0,0,1,.8-.8h.959v1.6h1.6V3.2H15.5v1.6h1.6V3.2h.959a.8.8,0,0,1,.8.8Z" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_659" data-name="Group 659" transform="translate(3.036 9.188)">
+        <g id="Group_658" data-name="Group 658">
+          <rect id="Rectangle_817" data-name="Rectangle 817" width="1.598" height="1.598" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_661" data-name="Group 661" transform="translate(6.232 9.188)">
+        <g id="Group_660" data-name="Group 660">
+          <rect id="Rectangle_818" data-name="Rectangle 818" width="1.598" height="1.598" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_663" data-name="Group 663" transform="translate(9.428 9.188)">
+        <g id="Group_662" data-name="Group 662">
+          <rect id="Rectangle_819" data-name="Rectangle 819" width="1.598" height="1.598" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_665" data-name="Group 665" transform="translate(12.623 9.188)">
+        <g id="Group_664" data-name="Group 664">
+          <rect id="Rectangle_820" data-name="Rectangle 820" width="1.598" height="1.598" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_667" data-name="Group 667" transform="translate(15.819 9.188)">
+        <g id="Group_666" data-name="Group 666">
+          <rect id="Rectangle_821" data-name="Rectangle 821" width="1.598" height="1.598" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_669" data-name="Group 669" transform="translate(3.036 12.384)">
+        <g id="Group_668" data-name="Group 668">
+          <rect id="Rectangle_822" data-name="Rectangle 822" width="1.598" height="1.598" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_671" data-name="Group 671" transform="translate(6.232 12.384)">
+        <g id="Group_670" data-name="Group 670">
+          <rect id="Rectangle_823" data-name="Rectangle 823" width="1.598" height="1.598" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_673" data-name="Group 673" transform="translate(9.428 12.384)">
+        <g id="Group_672" data-name="Group 672">
+          <rect id="Rectangle_824" data-name="Rectangle 824" width="1.598" height="1.598" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_675" data-name="Group 675" transform="translate(12.623 12.384)">
+        <g id="Group_674" data-name="Group 674">
+          <rect id="Rectangle_825" data-name="Rectangle 825" width="1.598" height="1.598" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_677" data-name="Group 677" transform="translate(3.036 15.579)">
+        <g id="Group_676" data-name="Group 676">
+          <rect id="Rectangle_826" data-name="Rectangle 826" width="1.598" height="1.598" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_679" data-name="Group 679" transform="translate(6.232 15.579)">
+        <g id="Group_678" data-name="Group 678">
+          <rect id="Rectangle_827" data-name="Rectangle 827" width="1.598" height="1.598" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_681" data-name="Group 681" transform="translate(9.428 15.579)">
+        <g id="Group_680" data-name="Group 680">
+          <rect id="Rectangle_828" data-name="Rectangle 828" width="1.598" height="1.598" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_683" data-name="Group 683" transform="translate(12.623 15.579)">
+        <g id="Group_682" data-name="Group 682">
+          <rect id="Rectangle_829" data-name="Rectangle 829" width="1.598" height="1.598" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_685" data-name="Group 685" transform="translate(15.819 12.384)">
+        <g id="Group_684" data-name="Group 684">
+          <rect id="Rectangle_830" data-name="Rectangle 830" width="1.598" height="1.598" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
